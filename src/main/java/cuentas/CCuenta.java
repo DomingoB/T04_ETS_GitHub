@@ -6,6 +6,7 @@ package cuentas;
  * 2. Domingo Bermúdez Díaz
  * @version 1.0
  */
+/*Actualizado_1: Comentario Javadoc*/
 public class CCuenta { //Inicio de la clase.
     //Atributos.
     private String nombre;
