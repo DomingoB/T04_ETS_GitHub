@@ -1,7 +1,7 @@
 package cuentas;
 
 /**
- * @date 27 mar. 2023 14:52:58
+ * @date 14 abr. 2023 14:52:58
  * @author 1DAW15
  * 2. Domingo Bermúdez Díaz
  * @version 1.0
